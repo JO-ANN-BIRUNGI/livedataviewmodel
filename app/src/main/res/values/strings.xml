@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">livedataviewmodel</string>
+    <string name="home">HOME</string>
+    <string name="awau">AWAY</string>
+    <string name="Initail_score">0</string>
+    <string name="increase_homescore">increase home score</string>
+    <string name="increase_awayscore">increase way score</string>>
+    <string name="decrease_awayscore">decrease way score</string>
+    <string name="decrease_homescore">decrease home score</string>
+    <string name="reset_score">reset score</string>
+</resources>
